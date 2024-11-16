@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/677694911797686493/a9a90fb5d64846f6b0d643a7f4b7e8e6/artifacts
+deleted_time: 1729455464105
+end_time: 1729451953299
+entry_point_name: ''
+experiment_id: '677694911797686493'
+lifecycle_stage: deleted
+run_id: a9a90fb5d64846f6b0d643a7f4b7e8e6
+run_name: SVM
+run_uuid: a9a90fb5d64846f6b0d643a7f4b7e8e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729451952267
+status: 3
+tags: []
+user_id: olerma

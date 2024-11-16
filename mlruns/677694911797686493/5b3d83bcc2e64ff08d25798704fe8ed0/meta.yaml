@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/677694911797686493/5b3d83bcc2e64ff08d25798704fe8ed0/artifacts
+end_time: 1729455439149
+entry_point_name: ''
+experiment_id: '677694911797686493'
+lifecycle_stage: active
+run_id: 5b3d83bcc2e64ff08d25798704fe8ed0
+run_name: 'DecisionTreeRegressor - Params: {''max_depth'': 3, ''min_samples_split'':
+  2, ''random_state='': 42}'
+run_uuid: 5b3d83bcc2e64ff08d25798704fe8ed0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729455439143
+status: 4
+tags: []
+user_id: olerma

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/677694911797686493/f2b841a0154c4ebfb2a144b024f5c84b/artifacts
+end_time: 1729455461061
+entry_point_name: ''
+experiment_id: '677694911797686493'
+lifecycle_stage: active
+run_id: f2b841a0154c4ebfb2a144b024f5c84b
+run_name: 'RandomForestRegressor - Params: {''n_estimators'': 100, ''max_depth'':
+  20, ''min_samples_split'': 4, ''random_state'': 42}'
+run_uuid: f2b841a0154c4ebfb2a144b024f5c84b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729455459630
+status: 3
+tags: []
+user_id: olerma

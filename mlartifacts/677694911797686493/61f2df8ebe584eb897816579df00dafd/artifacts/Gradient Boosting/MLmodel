@@ -1,0 +1,49 @@
+artifact_path: Gradient Boosting
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.16.2
+model_size_bytes: 130928
+model_uuid: d65b5ebfdb6c4926a7a28964bc98f7c8
+run_id: 61f2df8ebe584eb897816579df00dafd
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "X", "required": true}, {"type": "long", "name":
+    "Y", "required": true}, {"type": "double", "name": "FFMC", "required": true},
+    {"type": "double", "name": "DMC", "required": true}, {"type": "double", "name":
+    "DC", "required": true}, {"type": "double", "name": "ISI", "required": true},
+    {"type": "double", "name": "temp", "required": true}, {"type": "long", "name":
+    "RH", "required": true}, {"type": "double", "name": "wind", "required": true},
+    {"type": "double", "name": "rain", "required": true}, {"type": "integer", "name":
+    "month_apr", "required": true}, {"type": "integer", "name": "month_aug", "required":
+    true}, {"type": "integer", "name": "month_dec", "required": true}, {"type": "integer",
+    "name": "month_feb", "required": true}, {"type": "integer", "name": "month_jan",
+    "required": true}, {"type": "integer", "name": "month_jul", "required": true},
+    {"type": "integer", "name": "month_jun", "required": true}, {"type": "integer",
+    "name": "month_mar", "required": true}, {"type": "integer", "name": "month_may",
+    "required": true}, {"type": "integer", "name": "month_nov", "required": true},
+    {"type": "integer", "name": "month_oct", "required": true}, {"type": "integer",
+    "name": "month_sep", "required": true}, {"type": "integer", "name": "day_fri",
+    "required": true}, {"type": "integer", "name": "day_mon", "required": true}, {"type":
+    "integer", "name": "day_sat", "required": true}, {"type": "integer", "name": "day_sun",
+    "required": true}, {"type": "integer", "name": "day_thu", "required": true}, {"type":
+    "integer", "name": "day_tue", "required": true}, {"type": "integer", "name": "day_wed",
+    "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2024-10-20 19:19:13.381592'

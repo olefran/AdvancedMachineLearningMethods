@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/677694911797686493/c84500a9e28d4b9a94bcafc9174b6e55/artifacts
+deleted_time: 1729455464107
+end_time: 1729451952260
+entry_point_name: ''
+experiment_id: '677694911797686493'
+lifecycle_stage: deleted
+run_id: c84500a9e28d4b9a94bcafc9174b6e55
+run_name: Random Forest
+run_uuid: c84500a9e28d4b9a94bcafc9174b6e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729451950878
+status: 3
+tags: []
+user_id: olerma

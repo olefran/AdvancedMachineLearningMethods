@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/436298509706477375/1b1f26ee0a634f3191674ff966672737/artifacts
+deleted_time: 1729451921990
+end_time: 1729451850414
+entry_point_name: ''
+experiment_id: '436298509706477375'
+lifecycle_stage: deleted
+run_id: 1b1f26ee0a634f3191674ff966672737
+run_name: Linear Regression
+run_uuid: 1b1f26ee0a634f3191674ff966672737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729451848600
+status: 3
+tags: []
+user_id: olerma

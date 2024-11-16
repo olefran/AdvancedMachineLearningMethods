@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/677694911797686493/bf1067e2d2fb4cdf957b66ee6e0f8cad/artifacts
+end_time: 1729455484007
+entry_point_name: ''
+experiment_id: '677694911797686493'
+lifecycle_stage: active
+run_id: bf1067e2d2fb4cdf957b66ee6e0f8cad
+run_name: 'GradientBoostingRegressor - Params: {''n_estimators'': 100, ''learning_rate'':
+  0.1, ''random_state'': 42}'
+run_uuid: bf1067e2d2fb4cdf957b66ee6e0f8cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729455482541
+status: 3
+tags: []
+user_id: olerma

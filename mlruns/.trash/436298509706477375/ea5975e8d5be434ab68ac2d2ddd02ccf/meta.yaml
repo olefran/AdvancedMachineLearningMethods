@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/436298509706477375/ea5975e8d5be434ab68ac2d2ddd02ccf/artifacts
+deleted_time: 1729451921990
+end_time: 1729451855071
+entry_point_name: ''
+experiment_id: '436298509706477375'
+lifecycle_stage: deleted
+run_id: ea5975e8d5be434ab68ac2d2ddd02ccf
+run_name: Gradient Boosting
+run_uuid: ea5975e8d5be434ab68ac2d2ddd02ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729451853935
+status: 3
+tags: []
+user_id: olerma

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/436298509706477375/4f3dbcb25d4d4d21951729c3d455e54d/artifacts
+deleted_time: 1729451921990
+end_time: 1729451851480
+entry_point_name: ''
+experiment_id: '436298509706477375'
+lifecycle_stage: deleted
+run_id: 4f3dbcb25d4d4d21951729c3d455e54d
+run_name: Decision Tree
+run_uuid: 4f3dbcb25d4d4d21951729c3d455e54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729451850421
+status: 3
+tags: []
+user_id: olerma
